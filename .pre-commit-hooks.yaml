@@ -3,3 +3,9 @@
     description: https://github.com/looker-open-source/look-at-me-sideways
     entry: lams
     language: docker
+
+-   id: lkmlstyle
+    name: lkmlstyle
+    description: https://github.com/spectacles-ci/lkmlstyle
+    entry: lkmlstyle
+    language: docker
