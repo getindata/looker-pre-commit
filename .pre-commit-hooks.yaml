@@ -1,0 +1,5 @@
+-   id: lams
+    name: LAMS Looker linter
+    description: https://github.com/looker-open-source/look-at-me-sideways
+    entry: lams
+    language: docker
