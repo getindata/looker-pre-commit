@@ -10,7 +10,7 @@ A set of [pre-commit](https://pre-commit.com/) hooks for Looker
 ```yaml
 repos:
 - repo: https://github.com/getindata/looker-pre-commit
-  rev: v0.1.3
+  rev: v0.1.4
   hooks:
     - id: lams
       args:

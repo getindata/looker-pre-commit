@@ -8,4 +8,5 @@
     name: lkmlstyle
     description: https://github.com/spectacles-ci/lkmlstyle
     entry: lkmlstyle
+    files: ^.*\.(lkml)$
     language: docker
